@@ -12,8 +12,7 @@
                 </div>
                 <div class="row mt35">
                     <div class="col-lg-4">
-                        <div class="infocards">
-                            <img src="/images/oak.jpg"  alt="">
+                        <div class="infocards" style="background-image:url('/images/oak.jpg')">
                             <div class="card-bottom">
                                 <h3>OAK  <i class="far fa-arrow-alt-circle-right cardarrow"></i></h3>
                             </div>
