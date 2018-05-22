@@ -27,6 +27,16 @@
             <div class="col-lg-3">
                 <h4>Quick Enquiry</h4>
                 <hr>
+                <form action="">
+                    <div class="form-group">                      
+                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Your Name">
+                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Your Name">
+                    <div class="form-group">
+                      <textarea class="form-control" name="" id="" placeholder="Your Message" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary footer">Submit</button>
+                    </div>
+                </form>
             </div>
         </div>        
     </div>
