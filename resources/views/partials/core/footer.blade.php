@@ -19,8 +19,10 @@
                 </p>
             </div>
             <div class="col-lg-3">
-                <h4>Our Partners</h4>
+                <h4>Information</h4>
                 <hr>
+                <p>Privacy Policy <br>
+                Cookie Policy</p>
             </div>
             <div class="col-lg-3">
                 <h4>Quick Enquiry</h4>
