@@ -14,20 +14,20 @@
                     <div class="col-lg-4">
                         <div class="infocards" style="background-image:url('/images/oak.jpg')">
                             <div class="card-bottom">
-                                <h3>OAK  <i class="far fa-arrow-alt-circle-right cardarrow"></i></h3>
+                                <h3>OAK  <i class="far fa-plus-square cardarrow"></i></h3>
                             </div>
                         </div>
                     </div> 
                     <div class="col-lg-4">
                         <img src="/images/poplar.jpg" class="cardimg" width="100%" alt="">
                         <div class="card-bottom">
-                            <h3>POPLAR  <i class="far fa-arrow-alt-circle-right cardarrow"></i></h3>
+                            <h3>POPLAR  <i class="far fa-plus-square cardarrow"></i></h3>
                         </div>
                     </div>                    
                     <div class="col-lg-4">
                         <img src="/images/willow.jpg" class="cardimg" width="100%" alt="">
                         <div class="card-bottom">
-                            <h3>WILLOW  <i class="far fa-arrow-alt-circle-right cardarrow"></i></h3>
+                            <h3>WILLOW  <i class="far fa-plus-square cardarrow"></i></h3>
                         </div>
                     </div> 
                 </div>
