@@ -1,0 +1,185 @@
+/* Core Styling Sheet */
+
+/* Margins */
+
+.mt35{
+    margin-top: 35px;
+}
+.mt45{
+    margin-top: 45px;
+}
+.mb35{
+    margin-bottom: 35px;
+}
+.mb45{
+    margin-bottom: 45px;
+}
+
+/* Fonts */
+
+/* Montserrat Google Font - Include with: font-family: 'Montserrat', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700');
+
+/* Font Standards */
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    &.cards{
+        font-size: 14px;
+    }
+    &.copyright{
+        font-size: 12px;
+    }
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    &.stat{
+        font-weight: 800;
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+}
+
+/* topbar */
+
+div.topbar{
+    background-color: @green;
+    width: 100%;
+    overflow: hidden;
+    div.contacts{
+        color: @white;
+        text-align: right;
+        padding-top: 12px;
+    }
+}
+
+/* Navigation */
+
+nav.main{
+    height: 100px;
+}
+
+/* Cards */
+
+div.card-bottom{
+    background-color: @green;
+    width: 100%;
+    color: @white;
+    padding-left: 10px;
+    padding-top: 12px;
+    padding-bottom: 3px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 5px;
+    h3{
+        font-weight: 300;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+    }
+}
+
+div.infocard{
+    position: relative;
+    img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width:100%;
+        max-height: 400px;
+        display: block;
+        margin: 0 auto;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 5px;
+    }
+}
+/* Badges */
+
+span.badge-cards{
+    color: @white;
+    background-color: @green;
+}
+
+/* Sections */
+
+section.intro{
+    margin-top: 35px;    
+}
+
+section.homes{
+    h2.intro{
+        text-align: center;
+        span.subtitle{
+            font-size: 21px;
+        }
+    }
+}
+
+section.parallax{
+    background-image: url('/images/plxbg.jpg');
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+section.stats{
+    background-color: @white;
+    div.statcard{
+        background-color: white;
+        margin-top: 35px;
+        margin-bottom: 35px;
+        padding: 10px;
+        text-align: center;
+        i{
+            font-size: 32px;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+    }
+}
+
+/* Footer */
+
+footer.main{
+    background-color: @white;
+    padding-top: 20px;
+    hr{
+        border-top: 1px solid @green-3;
+    }
+    h4{
+        color: @green-3;
+        font-size: 16px;
+    }
+    p{
+        color: @green-3;
+        font-size: 14px;
+    }    
+}
+
+div.copyright{
+    padding-top: 10px;
+    background-color: @green-3;
+    overflow: hidden;
+    color: @white;
+    width: 100%;
+}
+
+/* Image Control */
+
+img.rounded-circle{
+    &.feature{
+        border: 5px solid @white;
+        width: 100%;
+    }
+}
+/* Icon Classes */
+
+i.cardarrow{
+    float: right; 
+    padding-right: 10px; 
+}
