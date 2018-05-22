@@ -14,22 +14,35 @@
                     <div class="col-lg-4">
                         <div class="infocards" id="oak" style="background-image:url('/images/oak.jpg')">
                             <div class="card-bottom">
-                                <h3>OAK  <i class="far fa-plus-square cardarrow"></i></h3>
+                                    <h3>OAK  <i class="far fa-plus-square cardarrow"></i></h3>                                
+                                    <p><span class="feature">2 or 3 Bedrooms</span> <span class="feature">Open Plan</span> <span class="feature">2 Layout Options</span> <br><span class="feature">Colours &amp; Finishes</span></p>
+                                    <h5>Brief Description</h5>
+                                    <p>The Oak is a popular choice for twin park homes.</p>
+                                    <p>Find Out More <i class="fas fa-arrow-circle-right"></i></p>
                             </div>
                         </div>
                     </div> 
                     <div class="col-lg-4">
                         <div class="infocards" id="poplar" style="background-image:url('/images/poplar.jpg')">
                             <div class="card-bottom">
-                                <h3>POPLAR  <i class="far fa-plus-square cardarrow"></i></h3>
+                                <h3>POPLAR  <i class="far fa-plus-square cardarrow"></i></h3>                                
+                                <p><span class="feature">2 Bedrooms</span> <span class="feature">Open Plan</span> <span class="feature">2 Layout Options</span></p>
+                                <h5>Brief Description</h5>
+                                <p>The Poplar is a warm, welcoming and cosy 2 bedroom park home.</p>
+                                <p>Find Out More <i class="fas fa-arrow-circle-right"></i></p>
+                                
                             </div>
                         </div>
                     </div>                    
                     <div class="col-lg-4">
                         <div class="infocards" id="willow" style="background-image:url('/images/willow.jpg')">
                             <div class="card-bottom">
-                                <h3>WILLOW  <i class="far fa-plus-square cardarrow"></i></h3>
-                            </div>
+                                    <h3>WILLOW  <i class="far fa-plus-square cardarrow"></i></h3>                                
+                                    <p><span class="feature">2 or 3 Bedrooms</span> <span class="feature">Open Plan</span> <span class="feature">Colours &amp; Finishes</span></p>
+                                    <h5>Brief Description</h5>
+                                    <p>The Willow is a family based beautifully spacious home.</p>
+                                    <p>Find Out More <i class="fas fa-arrow-circle-right"></i></p>
+                                </div>
                         </div>
                     </div> 
                 </div>
