@@ -12,28 +12,30 @@
                 </div>
                 <div class="row mt35">
                     <div class="col-lg-4">
-                        <div class="infocards" style="background-image:url('/images/oak.jpg')">
+                        <div class="infocards" id="oak" style="background-image:url('/images/oak.jpg')">
                             <div class="card-bottom">
                                 <h3>OAK  <i class="far fa-plus-square cardarrow"></i></h3>
                             </div>
                         </div>
                     </div> 
                     <div class="col-lg-4">
-                        <img src="/images/poplar.jpg" class="cardimg" width="100%" alt="">
-                        <div class="card-bottom">
-                            <h3>POPLAR  <i class="far fa-plus-square cardarrow"></i></h3>
+                        <div class="infocards" id="poplar" style="background-image:url('/images/poplar.jpg')">
+                            <div class="card-bottom">
+                                <h3>POPLAR  <i class="far fa-plus-square cardarrow"></i></h3>
+                            </div>
                         </div>
                     </div>                    
                     <div class="col-lg-4">
-                        <img src="/images/willow.jpg" class="cardimg" width="100%" alt="">
-                        <div class="card-bottom">
-                            <h3>WILLOW  <i class="far fa-plus-square cardarrow"></i></h3>
+                        <div class="infocards" id="willow" style="background-image:url('/images/willow.jpg')">
+                            <div class="card-bottom">
+                                <h3>WILLOW  <i class="far fa-plus-square cardarrow"></i></h3>
+                            </div>
                         </div>
                     </div> 
                 </div>
             </div>
         </section>
-        <section class="intro">
+        <section class="intro mt35">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
