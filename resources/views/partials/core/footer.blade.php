@@ -62,5 +62,5 @@
 
        </div>
    </div>
-</div>
+</div> 
 @include('cookieConsent::index')
