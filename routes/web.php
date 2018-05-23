@@ -15,4 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('poplar', function () {
+    return view('poplar');
+});
+
 Route::get('/Resources/LESS', ['uses' =>'Oakwood\ResourceController@Less']);
