@@ -5,9 +5,14 @@
                 <h4>Contact</h4>
                 <hr>
                 <p>Oakwood Park Homes <br>
-                Doncaster <br>
                 T: 01302 898698 <br>
                 info@oakwoodparkhomes.co.uk</p>
+                <p>Unit 38, Carcroft Enterprise Park <br>
+                Station Road <br>
+                Carcroft <br>
+                Doncaster <br>
+                South Yorkshire <br>
+                DN6 8DD</p>
             </div>
             <div class="col-lg-3">
                 <h4>Latest News</h4>
@@ -23,6 +28,9 @@
                 <hr>
                 <p>Privacy Policy <br>
                 Cookie Policy</p>
+                <p class="disclaimer">
+                    *Please note: Some of the photographs on this website may contain features which do not come as standard. These options are available as optional extras and will incur additional costs.
+                </p>
             </div>
             <div class="col-lg-3">
                 <h4>Quick Enquiry</h4>
