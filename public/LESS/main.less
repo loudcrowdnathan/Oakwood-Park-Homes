@@ -1,12 +1,15 @@
 /* Core Styling Sheet */
 
 /* Overrides */
+
 body.overflow-hidden{
     overflow: auto !important;
 }
 
 /* Margins */
-
+.mt15{
+    margin-top: 15px;
+}
 .mt35{
     margin-top: 35px;
 }
@@ -120,6 +123,9 @@ div.infocards{
         height: 45px;
         transition: all 0.5s;
         overflow-y: hidden;
+        i{
+            float: right !important;
+        }
         span.feature{
             background-color: @cedar;
             padding: 2px;
@@ -342,4 +348,14 @@ div.accred{
 i.cardarrow{
     float: right; 
     padding-right: 10px; 
+}
+
+/* Cookie Consent */
+div.js-cookie-consent.cookie-consent{
+    background-color: @cedar;
+    color: @white;
+    z-index: 20;
+    transition: all 2s;
+    text-align: center;
+    padding: 20px;
 }
