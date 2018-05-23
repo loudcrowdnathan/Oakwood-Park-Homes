@@ -81,7 +81,16 @@
                         <h2>Section Heading</h2>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam laudantium suscipit, sint autem culpa nobis commodi est doloremque illum enim ipsum voluptatum fugit laborum blanditiis repellat nemo ad ipsa possimus!</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione recusandae repellat illo autem nemo iusto quisquam maxime eum, eos ipsa ad aliquid culpa placeat commodi molestias labore ipsam. Ipsam, enim.</p>
-                        <img src="/images/mib.png" width="200px" alt="">
+                        <div class="accred">
+                            <img src="/images/mib.png" width="200px" alt="">
+                        </div>
+                        <div class="accred">
+                            <img src="/images/ncc.jpg" width="100px" alt="">
+                        </div>  
+                        <div class="accred">
+                            <img src="/images/bsi.jpg" width="100px" alt="">
+                        </div>
+      
                     </div>
                     <div class="col-lg-3">
                         <img src="https://picsum.photos/600"  class="rounded-circle feature" alt="">
