@@ -27,7 +27,8 @@
                 <h4>Information</h4>
                 <hr>
                 <p>Privacy Policy <br>
-                Cookie Policy</p>
+                Cookie Policy <br>
+                Certificates</p>
                 <p class="disclaimer">
                     *Please note: Some of the photographs on this website may contain features which do not come as standard. These options are available as optional extras and will incur additional costs.
                 </p>
@@ -37,8 +38,8 @@
                 <hr>
                 <form action="">
                     <div class="form-group">                      
-                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Your Name">
-                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Your Name">
+                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Your Name" required>
+                      <input type="text" class="form-control" name="" id="" aria-describedby="helpId" placeholder="Email Address" required>
                     <div class="form-group">
                       <textarea class="form-control" name="" id="" placeholder="Your Message" rows="3"></textarea>
                     </div>

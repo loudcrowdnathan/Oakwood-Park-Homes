@@ -56,7 +56,7 @@
                         <p>With over 15 years experience in building park homes, we have a wealth of knowledge to help you along the way to your dream home. Your journey begins here!</p>
                     </div>
                     <div class="col-lg-6">
-                        <img src="/images/slide1.jpg" width="100%" alt="">
+                        <img src="/images/home-feature.jpg" width="100%" alt="">
                     </div>
                 </div>
             </div>            
